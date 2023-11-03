@@ -211,5 +211,6 @@
 // console.log(`${a} or ${b}`)
 //  var a=undefined;
 //  console.log(typeof(a));
+var a=123
 
  
