@@ -212,5 +212,7 @@
 //  var a=undefined;
 //  console.log(typeof(a));
 var a=123
+ 
 
+function sum(){ document.write("hy") }
  
