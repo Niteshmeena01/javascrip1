@@ -211,8 +211,48 @@
 // console.log(`${a} or ${b}`)
 //  var a=undefined;
 //  console.log(typeof(a));
-var a=123
+// var a=123
  
 
-function sum(){ document.write("hy") }
+// function sum(){ document.write("hy") }
+
+// this syntax of function
+// function hello(params) {
+//      document.write("hello i'm nitesh") ;   
+//  }
+// hello()
+
+// syntax of return fuctions
+// function add(a,b) {
+
+
+//      return a+b;
+//  }
+//    var c=add(30,40)
+//  document.write(c)
+ 
+
+// This is syntax of while loop
+// var a=1
+// while (a<=20) {
+//      document.write("<ul>")
+//      document.write("Hello every one")
+//      document.write("</ul>")
+     
+//      a= a+1
+     
+// }
+
+// syntax of do while loop 
+
+// var a=1;
+// do{
+//    document.write("hello everyone <br>")
+//    a++;
+// }while (a<=10)
+
+// syntax of for loop
+
+// for(var a=1;a<=10;a++){document.write("hello <br>")}
+
  
