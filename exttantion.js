@@ -255,4 +255,36 @@
 
 // for(var a=1;a<=10;a++){document.write("hello <br>")}
 
- 
+// syntax of array 
+// array is house of datatype
+// var a=1
+// var b=2
+// var c=3
+
+//  Array=[a,b,c]
+
+//  console.log(Array.length);
+
+// Array De structring
+// var a=["jai",50,"jaipur",302033]
+// const [Name,age,city,pin] = a
+
+// console.log(Name);
+// console.log(pin);
+
+// object is the key value pair
+// this is syntax of object
+
+// var a={Name:["vijay","jatin","nitesh"],Email:"jai@gmail.com",Age:25}
+// let Data=Object.entries(a)
+// console.log(Object.fromEntries(Data));
+
+
+var a=[10,20,30,40,50,60]
+// var b=new Array()
+// b[0]="hello"
+// b[1]="hy"
+for(var b=0; b<10 ; b++)
+console.log(a[b]);
+
+
