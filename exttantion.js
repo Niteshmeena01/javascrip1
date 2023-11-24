@@ -280,11 +280,90 @@
 // console.log(Object.fromEntries(Data));
 
 
-var a=[10,20,30,40,50,60]
-// var b=new Array()
-// b[0]="hello"
-// b[1]="hy"
-for(var b=0; b<10 ; b++)
-console.log(a[b]);
+// var a=[10,20,30,40,50,60]
+// // var b=new Array()
+// // b[0]="hello"
+// // b[1]="hy"
+// for(var b=0; b<10 ; b++)
+// console.log(a[b]);
+
+
+// even number
+// let a=2
+// while(a<=40){
+//      console.log(a);
+//      a=a+2
+// }
+
+// odd number
+// let a=1
+// while(a<=40){
+//      console.log(a);
+//      a=a+2
+// }
+
+
+// factors
+// let a=1
+// let f=1
+// while(a<=100){
+//      f=f*a
+//      console.log(f);
+//      a++
+// }
+
+
+
+
+// let i=1
+// let j=2
+// while(i<=20){
+//      if(i%j==0)
+//      {console.log(i);}
+//      i++
+// }
+
+// for each syntax
+// arry=["jai","vijay","Nitin","vipin"]
+
+// arry.forEach((e)=> {
+//      console.log(e);
+     
+// })
+
+
+// function is the block of code which is design to perform a particular task
+
+// syntax of functions
+// first line in function of round brackets are called parenthesis.
+// in round brackets are called parameters
+// function sum(a,b){
+//      total=a+b
+//      return total
+// }
+
+// console.log(sum(5,6));
+
+
+// function expression
+// when you store any functions in variabels are called function expression
+// syntax
+//  let clc =  function  sum(a,b) {
+//      return a+b
+// }
+// console.log(clc(5,6));
+
+// function anonymes
+// when you use function without any Name in stored varibels  are called anonymes functions
+// syntax
+// let clc =  function  (a,b) {
+     //      return a+b
+     // }
+     // console.log(clc(5,6));
+ 
+// function arrow
+// when you  use function in stored varibels whithout using function name and function name syntax 
+// syntax 
+// let a= ()=>{}
 
 
