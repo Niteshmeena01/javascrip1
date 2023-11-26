@@ -367,3 +367,18 @@
 // let a= ()=>{}
 
 
+// let Dil = function (){
+//      return 25
+// }
+// let nil = function (){
+//      return 30
+// }
+
+// function sum(a,b){
+
+//               return a+b
+// }
+
+// console.log(sum(Dil(),nil()));
+
+
