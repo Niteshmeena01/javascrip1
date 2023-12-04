@@ -376,9 +376,42 @@
 
 // function sum(a,b){
 
-//               return a+b
+//               return a()+b()
 // }
 
-// console.log(sum(Dil(),nil()));
+// console.log(sum(Dil,nil));
+
+// filter of js
+
+// var a = [10,20,30]
+//  data = a.map ((e,i,arr)=>{
+
+//      return e
+// }).filter((e,i,arr)=> e > 10)
+
+// console.log(data);
+
+
+// push()
+// pop()
+// shift()
+// unshift
+// include
+// indexOf
+// find
+// lastIndex
+// findLastindex
+"use strict"
+// console.log(a);
+//         a = [5,10,20,25,35,30,5,35,5,50]
+//         data = a.findLastIndex((e) => e>40)
+//        console.log(a[9]);
+
+// var a = [20,25,30,35,40];
+// var b = a.filter(Aman);
+// function Aman(a){
+//      return a >= 35
+// };
+// console.log(b);
 
 
