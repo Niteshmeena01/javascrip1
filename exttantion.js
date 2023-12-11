@@ -415,3 +415,79 @@
 // console.log(b);
 
 
+// ToString method of js
+
+// var a = ["jai", "Vijay"]
+// console.log(a.toString());
+
+// flat array method
+// var myarr = ["jai", "Vijay" ,["Nitin","vipin,jitin","vishal","Nishant",["mohit","rohit",["vinit","sumit"]]]]
+//  var arr = [1,2,[3,[4,[0,1,2,3,4],5,6],7],8]
+
+//  console.log(arr.flat(Infinity));
+
+// var arr = [2,8,9,12]
+// console.log(arr.sort((a,b)=> b-a));
+// splice method
+// var arr = ["jai ","ajay","vijay","vipin","jitin"];
+// arr.splice(0,1,"nitesh");
+// console.log(arr);
+
+// var a = ["jan","feb","march","april","may"]
+// if (a.indexOf("july") !== -1) {
+//      a.splice(5,0,"july")
+// }else{
+//      a.splice(5,0,"june")
+// }
+// console.log(a);
+
+// var a = ["NItesh","Vijay","Amit","Anurag"]
+// console.log(a.includes("Aman"));
+
+// var b = ["jai","vijay","Ajay","nitin"]
+// b.splice(1,)
+// console.log(b);
+
+// some method 
+// when you want to check any above value of any number then use some method then method gives you answer in true or false .
+
+// var arr = [1,2,3,5,8,9,10,11]
+// var b = (e)=>{
+//      return e >3
+// }
+// var c = arr.every(b)
+// console.log(arr.every(n => n>3));
+// function big(arr){
+//      return arr >= 3
+// }
+// console.log(b);
+
+// let a ="this is string"
+
+// // console.log(a.substring()); 
+// // slice()
+// important" when you want to change string to array then you use split method.
+// // console.log(a.split(" , "));
+// // let b = a.split(" ,")
+// // console.log(b.length);
+
+// let a = ["jai","vijay","ajay"]
+
+// console.log(a.join(" and "));
+
+// var a = Math.random()*10
+
+// console.log(Math.abs(-20.30));
+// when you want to show timen & date use new Date method 
+// var a = new Date ()
+
+// console.log(a.toLocaleTimeString());
+// console.log(a.toUpperCase());
+// important when you want replace any value
+// console.log(a.replace("number","Array"));
+// when you want chechk value through index Number. 
+// console.log(a.charAt());
+
+// console.log(a.charCodeAt());
+
+
