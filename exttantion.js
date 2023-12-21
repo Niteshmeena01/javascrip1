@@ -494,4 +494,6 @@
 
 // console.log(a.charCodeAt());
 
-gcsgxvsgvxghs
+var a = ()=>{
+     console.log(hy);
+}
