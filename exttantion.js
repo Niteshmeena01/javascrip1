@@ -26,6 +26,7 @@
 // else {console.log("odd number");}
 
 
+
 // Ifelse Statement
 // var per=90
 
@@ -417,8 +418,10 @@
 
 // ToString method of js
 
-// var a = ["jai", "Vijay"]
-// console.log(a.toString());
+// var a = "jai"
+// var b = "Vijay"
+// let c = a+b
+// console.log(c.split());
 
 // flat array method
 // var myarr = ["jai", "Vijay" ,["Nitin","vipin,jitin","vishal","Nishant",["mohit","rohit",["vinit","sumit"]]]]
@@ -434,6 +437,7 @@
 // console.log(arr);
 
 // var a = ["jan","feb","march","april","may"]
+       
 // if (a.indexOf("july") !== -1) {
 //      a.splice(5,0,"july")
 // }else{
@@ -490,4 +494,4 @@
 
 // console.log(a.charCodeAt());
 
-
+gcsgxvsgvxghs
